@@ -37,8 +37,8 @@
     $resultados = strlen($resultados) ? $resultados : '<tr>    
                                                         <td colspan = "6" class=text-center>
                                                             Nenhuma vaga encontrada!
-                                                            </td>
-                                                            </tr>';
+                                                        </td>
+                                                        </tr>';
 
 ?>
 <main>
@@ -51,7 +51,6 @@
 
     <section>
         <table class="table bg-light mt-3">
-
             <thead>
                 <tr>
                     <th>ID</th>
